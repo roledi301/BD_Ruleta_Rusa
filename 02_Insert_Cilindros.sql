@@ -1,0 +1,13 @@
+set serveroutput on;
+execute insertarcilindros('C-06-02-037-C7TF','OPERATIVO','','');
+execute insertarcilindros('C-06-02-029-C7TF','OPERATIVO','','');
+execute insertarcilindros('C-06-02-031-C7TF','DEFECTUOSO','23/06/2013','No trasmite datos');
+execute insertarcilindros('C-06-02-038-C7TF','OPERATIVO','','');
+execute insertarcilindros('C-06-02-028-C7TF','DEFECTUOSO','15/12/2014','No trasmite datos');
+execute insertarcilindros('C-06-02-036-C7TF','OPERATIVO','','');
+execute insertarcilindros('C-06-02-035-C7TF','OPERATIVO','','');
+execute insertarcilindros('C-06-02-039-C7TF','OPERATIVO','','');
+execute insertarcilindros('C-06-02-034-C7TF','OPERATIVO','','');
+execute insertarcilindros('C-06-02-033-C7TF','OPERATIVO','','');
+execute insertarcilindros('C-06-02-030-C7TF','DEFECTUOSO','02/03/2015','No trasmite datos');
+execute insertarcilindros('C-06-02-032-C7TF','OPERATIVO','','');

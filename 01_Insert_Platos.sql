@@ -1,0 +1,13 @@
+set serveroutput on;
+execute insertarplatos('P-06-02-037-C7TF','DEFECTUOSO','06/04/2010','Marca en num 36');
+execute insertarplatos('P-06-02-029-C7TF','OPERATIVO','','');
+execute insertarplatos('P-06-02-031-C7TF','DEFECTUOSO','19/11/2013','Marca en num 35');
+execute insertarplatos('P-06-02-038-C7TF','DEFECTUOSO','21/06/2014','Marca en num 9');
+execute insertarplatos('P-06-02-028-C7TF','OPERATIVO','','');
+execute insertarplatos('P-06-02-036-C7TF','DEFECTUOSO','15/04/2012','Marca en num 31');
+execute insertarplatos('P-06-02-035-C7TF','OPERATIVO','','');
+execute insertarplatos('P-06-02-039-C7TF','OPERATIVO','','');
+execute insertarplatos('P-06-02-034-C7TF','OPERATIVO','','');
+execute insertarplatos('P-06-02-033-C7TF','OPERATIVO','','');
+execute insertarplatos('P-06-02-030-C7TF','OPERATIVO','','');
+execute insertarplatos('P-06-02-032-C7TF','OPERATIVO','','');
